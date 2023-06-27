@@ -78,7 +78,7 @@ async function _handleDropActors({event, actor, noOfCopies}) {
             distance += 1;
             offsetX = -1 * distance * canvas.grid.w;
             offsetY = -1 * distance * canvas.grid.h;
-        };
+        }
 
         const totalTries =
             Math.pow(1 + distance * 2, 2) - Math.pow(distance * 2 - 1, 2);
