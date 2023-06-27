@@ -1,7 +1,7 @@
 {
   "id": "multi-drop",
   "title": "Multi drop",
-  "description": "Adds the ability to drop multiple tokens on the canvas.",
+  "description": "Adds the ability to choose the number of copies of a dropped actor on the canvas.",
   "version": "0.1.0",
   "authors": [{
     "name": "André Kurth",
@@ -13,7 +13,7 @@
     "maximum": "11"
   },
   "esmodules": [
-    "module/main.mjs"
+    "main.mjs"
   ],
   "styles": [
     "styles/multi-drop.css"
@@ -46,6 +46,6 @@
   "socket": false,
   "library": false,
   "url": "https://github.com/sanguaire/multi-drop/",
-  "manifest": "https://github.com/sanguaire/multi-drop/releases/download/latest/module.json",
-  "download": "https://github.com/sanguaire/multi-drop/releases/download/latest/fast-dice-box.zip"
+  "manifest": "https://github.com/sanguaire/multi-drop/releases/latest/module.json",
+  "download": "https://github.com/sanguaire/multi-drop/releases/download/v0.1.0/multi-drop.zip"
 }
