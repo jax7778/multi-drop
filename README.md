@@ -1,4 +1,4 @@
-# multi-drop
+# Multi Drop
 Adds the ability to choose the number of copies of a dropped actor on the canvas, if prototypeToken has no actorLink.
 
 ![dialog.png](screenshots%2Fdialog.png)
