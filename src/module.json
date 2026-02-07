@@ -9,8 +9,8 @@
   }],
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
-    "maximum": "12"
+    "verified": "13",
+    "maximum": "13"
   },
   "esmodules": [
     "main.mjs"
